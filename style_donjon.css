@@ -1,0 +1,63 @@
+html{
+    background-image: url(images/parchemin.png);
+    background-size : 100% 100%;
+    font-family: 'Lobster', cursive;
+}
+
+header{
+    border: solid 20px;
+}
+h1{
+    font-size: 70px;
+    text-align: center;
+    color: #930e3a;
+}
+
+.titre_accroche{
+    text-align: center;
+    font-size: 45px;
+}
+
+navigation{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+}
+
+navigation a{
+    text-decoration: none;
+    color: #4e9d97;
+}
+
+navigation a:hover{
+    text-decoration: none;
+    color: blue;
+}
+
+navigation p{
+    font-size: 25px;
+    margin-right: 60px;
+    padding: 10px;
+    border: solid 2px black;
+    border-radius: 30px;
+    border-color: #4e9d97;
+}
+
+navigation p:hover{
+    border-color: blue;
+}
+
+section{
+    margin: 5px;
+}
+
+section p{
+    margin-bottom: 50px;
+    color: #144879;
+    line-height: 2em;
+    font-size: 20px;
+}
+
+section h2{
+    color: #b60a0a;
+}

@@ -1,0 +1,45 @@
+body {
+    background-image: url(images/bulle.png);
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 0;
+}
+header {
+    background-color: #007bff;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+h1 {
+    margin: 0;
+}
+section {
+    text-align: center;
+    background-color: #cff7bc;
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ddd;
+}
+h2 {
+    margin-top: 0;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+li {
+    margin-bottom: 10px;
+}
+
+li a{
+    color: blue;
+}
+
+li a:visited{
+    text-decoration: none;
+    color: blac;
+}
+p {
+    margin: 0;
+}
